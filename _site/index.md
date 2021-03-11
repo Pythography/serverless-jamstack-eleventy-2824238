@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: Created
-layout: page
+layout: base
 tags:
   - home
   - welcome
