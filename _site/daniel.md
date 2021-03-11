@@ -16,4 +16,4 @@ layout: base
 
 
 
-I am 19 and favorite color black.
+Hi I'm 19.
