@@ -1,6 +1,6 @@
 ---
 
-title: Daniel
+title: Daniel Castillo
 
 layout: base
 
@@ -14,5 +14,6 @@ layout: base
 
 ## About Me
 
-I am 19 and favorite color is black.
 
+
+I am 19 and favorite color black.
