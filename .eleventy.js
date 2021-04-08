@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'pageTemplates/page.njk');
   eleventyConfig.addLayoutAlias('page-hero', 'pageTemplates/page-hero.njk');
   eleventyConfig.addLayoutAlias('page-post', 'pageTemplates/page-post.njk');
-  eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents))
+  eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents));
 
   eleventyConfig.addShortcode('clientTag', function(name) {
     return `<a class="badge badge-secondary mr-2" href="/clients/${name}">${name}</a>`
